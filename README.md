@@ -4,5 +4,5 @@ Simple photo editor app which can edit photos taken from camera or external stor
 
 Reference:
 **Ucrop** library->
-https://github.com/Yalantis/uCrop
+https://github.com/Yalantis/uCrop **&&**
 **Dexter** for permission handeling https://github.com/Karumi/Dexter
